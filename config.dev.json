@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "limuleackerman@gmail.com",
-    "password": "Abdallah2005",
+    "email": "+23407071776576",
+    "password": "juana@",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,17 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61553392844761",
-    "61561725772043",
-    "61563580892213"
+    "100090265886700",
+   
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
-  "prefix": "~",
+  "nickNameBot": "Jüånå (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤pårkęr",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
